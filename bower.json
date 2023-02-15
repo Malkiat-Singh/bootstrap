@@ -31,6 +31,6 @@
   "dependencies": {
     "jquery": ">= 1.9.1",
     "angular": "< 2.0.0",
-    "styleguide-components": "https://github.com/Malkiat-Singh/styleguide-components.git"
+    "styleguide-components": "https://github.com/Malkiat-Singh/styleguide-components.git#master"
   }
 }
